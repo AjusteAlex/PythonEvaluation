@@ -25,7 +25,7 @@ longueur = input("Entrez une longueur : ")
 
 
 for largeur in range(0, longueur)
-    for hauteur in range(0, longueur-1)
+    for hauteur in range(0, longueur)
 
 
 
